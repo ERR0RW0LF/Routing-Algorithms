@@ -1,0 +1,7 @@
+[package]
+name = "bellman-ford"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nodes-and-routers ={ path = "../nodes-and-routers"}
